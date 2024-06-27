@@ -1,3 +1,4 @@
+![logo](https://github.com/Nupur142/Nupur142/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Nupur Mishra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
