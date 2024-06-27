@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Nupur Mishra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-
 - 🌱 I’m currently learning **JavaScript and React**
 
 - 👨‍💻 All of my projects are available at [https://nupur142.github.io/Portfolio-Website/](https://nupur142.github.io/Portfolio-Website/)
@@ -26,6 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nupur142&show_icons=true&locale=en" alt="nupur142" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nupur142&" alt="nupur142" /></p>
-
-![github_coding](https://github.com/Nupur142/Nupur142/assets/91134572/dd41f7fd-fef6-48ed-8491-d39e34a6e175)
-
